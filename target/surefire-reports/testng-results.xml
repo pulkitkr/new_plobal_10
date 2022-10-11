@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="7" passed="7">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Plobal_iOS" duration-ms="777862" started-at="2022-10-11T13:18:07Z" finished-at="2022-10-11T13:31:05Z">
+    <groups>
+    </groups>
+    <test name="iOSPlobal" duration-ms="777862" started-at="2022-10-11T13:18:07Z" finished-at="2022-10-11T13:31:05Z">
+      <class name="com.Plobal.iOS_Plobal_Scripts.IOS_Plobal_Test_cases">
+        <test-method status="PASS" signature="init()[pri:0, instance:com.Plobal.iOS_Plobal_Scripts.IOS_Plobal_Test_cases@394df057]" name="init" is-config="true" duration-ms="21470" started-at="2022-10-11T18:48:07Z" finished-at="2022-10-11T18:48:28Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- init -->
+        <test-method status="PASS" signature="plobalLogin(java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:1, instance:com.Plobal.iOS_Plobal_Scripts.IOS_Plobal_Test_cases@394df057]" name="plobalLogin" duration-ms="38911" started-at="2022-10-11T18:48:28Z" finished-at="2022-10-11T18:49:07Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[abc@gmail.com]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[1UB7p90IVxlFRmBv2ig8ag]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[Testmail@mailnesia.com]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[123456]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- plobalLogin -->
+        <test-method status="PASS" signature="plobalSelectItem(java.lang.String)[pri:2, instance:com.Plobal.iOS_Plobal_Scripts.IOS_Plobal_Test_cases@394df057]" name="plobalSelectItem" duration-ms="73295" started-at="2022-10-11T18:49:18Z" finished-at="2022-10-11T18:50:32Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[M]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- plobalSelectItem -->
+        <test-method status="PASS" signature="addProductToCart()[pri:3, instance:com.Plobal.iOS_Plobal_Scripts.IOS_Plobal_Test_cases@394df057]" name="addProductToCart" duration-ms="10247" started-at="2022-10-11T18:50:52Z" finished-at="2022-10-11T18:51:03Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- addProductToCart -->
+        <test-method status="PASS" signature="plobalDeliveryAddress(java.lang.String)[pri:4, instance:com.Plobal.iOS_Plobal_Scripts.IOS_Plobal_Test_cases@394df057]" name="plobalDeliveryAddress" duration-ms="114133" started-at="2022-10-11T18:51:12Z" finished-at="2022-10-11T18:53:06Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Edit]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- plobalDeliveryAddress -->
+        <test-method status="PASS" signature="plobalSearchProduct(java.lang.String)[pri:5, instance:com.Plobal.iOS_Plobal_Scripts.IOS_Plobal_Test_cases@394df057]" name="plobalSearchProduct" duration-ms="145058" started-at="2022-10-11T18:53:35Z" finished-at="2022-10-11T18:56:00Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Confirm_Address]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- plobalSearchProduct -->
+        <test-method status="PASS" signature="plobalBarCodeSearchProduct(java.lang.String)[pri:6, instance:com.Plobal.iOS_Plobal_Scripts.IOS_Plobal_Test_cases@394df057]" name="plobalBarCodeSearchProduct" duration-ms="220660" started-at="2022-10-11T18:56:29Z" finished-at="2022-10-11T19:00:09Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Remove]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- plobalBarCodeSearchProduct -->
+        <test-method status="PASS" signature="plobalLogout()[pri:7, instance:com.Plobal.iOS_Plobal_Scripts.IOS_Plobal_Test_cases@394df057]" name="plobalLogout" duration-ms="35328" started-at="2022-10-11T19:00:19Z" finished-at="2022-10-11T19:00:54Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- plobalLogout -->
+        <test-method status="PASS" signature="plobalAppQuit()[pri:0, instance:com.Plobal.iOS_Plobal_Scripts.IOS_Plobal_Test_cases@394df057]" name="plobalAppQuit" is-config="true" duration-ms="4082" started-at="2022-10-11T19:01:01Z" finished-at="2022-10-11T19:01:05Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- plobalAppQuit -->
+      </class> <!-- com.Plobal.iOS_Plobal_Scripts.IOS_Plobal_Test_cases -->
+    </test> <!-- iOSPlobal -->
+  </suite> <!-- Plobal_iOS -->
+</testng-results>
